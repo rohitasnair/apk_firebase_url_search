@@ -4,7 +4,7 @@ Searches for firebase url embedded in apk and checks for open database
   1. [Install apk tool ](https://ibotpeaches.github.io/Apktool/install/)
   2. Clone this repo
   3. chmod +x *
-  4. Move apk to test to same folder as script
+  4. Move apk to test to seperate folder and script in parent folder
   5. Execute 1st file by 
   ```bash
 ./firebase.sh

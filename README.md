@@ -16,3 +16,4 @@ Searches for firebase url embedded in apk and checks for open database
   ```bash
 ./check.sh
 ```
+ 7. Make sure not to have any special character in apk file or space
